@@ -4,6 +4,7 @@
 /logs
 /target
 /.allure
+/allure-results
 
 # Log file
 *.log
