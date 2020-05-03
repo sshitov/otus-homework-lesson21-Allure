@@ -138,7 +138,7 @@
                 <configuration>
                     <reportVersion>2.13.2</reportVersion>
                     <resultsDirectory>allure-results</resultsDirectory>
-                    <reportDirectory>${basedir}/target/</reportDirectory>
+                    <reportDirectory>${basedir}/target/allure-report</reportDirectory>
                 </configuration>
             </plugin>
 
