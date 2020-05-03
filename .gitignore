@@ -3,6 +3,7 @@
 /bin
 /logs
 /target
+/.allure
 
 # Log file
 *.log
